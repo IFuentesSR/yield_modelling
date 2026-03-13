@@ -1,3 +1,3 @@
 # yield_modelling
 
-Code associated with publiacation in Remote Sensing
+Code associated with publication in Remote Sensing
